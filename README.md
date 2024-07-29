@@ -1,6 +1,6 @@
 # IE club
 Welcome new friends to join IE club!
-IE club is committed to creating an interdisciplinary academic exchange platform for students of HKUST!
+IE club is committed to creating an interdisciplinary exchange platform for students of SUSTech!
 If we look for information groups in daily life and bullfrog groups for problems in class,
 Then any area of interest can come to IE club!
 IE club has no professional restrictions, aims to promote learning and exchange in various fields of interest, and hopes to become a position for everyone to share and talk about academic research and industry-related issues.
