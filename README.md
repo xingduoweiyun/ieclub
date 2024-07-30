@@ -12,5 +12,6 @@ IE club has no professional restrictions, aims to promote learning and exchange 
 ### 2. To make appointments: listen to lectures, find teachers to visit the research group, you can catch people in this ~;
 ### 3. To Post topics: Anything you want to learn offline exchange discussion can post in this group!
 We also welcome to invite seniors or capable friends to do offline exchanges and sharing!     
-Those who are willing to communicate and share offline, as well as those who are willing to participate in the construction of IE club, welcome private chat group founder!  
+Those who are willing to communicate and share offline, as well as those who are willing to participate in the construction of IE club,    
+welcome private chat group founder!  
 Let's start IE with chatting and sharing!     
