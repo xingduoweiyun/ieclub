@@ -16,3 +16,8 @@ Those who are willing to communicate and share offline,
 as well as those who are willing to participate in the construction of IE club,    
 welcome private chat group founder!  
 Let's start IE with chatting and sharing!     
+
+## Guide:
+QQ group for free communication!
+GITHub website for uploading resources!
+GitHub discussion field for uploading and sharing something valuable!
