@@ -18,6 +18,6 @@ welcome private chat group founder!
 Let's start IE with chatting and sharing!     
 
 ## Guide:
-QQ group for free communication!
-GITHub website for uploading resources!
-GitHub discussion field for uploading and sharing something valuable!
+QQ group for free communication!   
+GITHub website for uploading resources!    
+GitHub discussion field for uploading and sharing something valuable!   
