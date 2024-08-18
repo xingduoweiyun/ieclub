@@ -21,5 +21,5 @@ Let's start IE with chatting and sharing!
 QQ group for free communication!   
 GITHub website for uploading resources!    
 GitHub discussion field for uploading and sharing something valuable!       
-Anyone interested in contributing and commenting on IE club can contact the group founder via QQ!
-Thank you for reading！
+Anyone interested in contributing and commenting on IE club can contact the group founder via QQ!    
+Thank you for your efforts!
