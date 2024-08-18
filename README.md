@@ -1,8 +1,8 @@
 # IE club
-Welcome new friends to join IE club!  
+Welcome to join IE club!  
 IE club is committed to creating an interdisciplinary exchange platform for students of SUSTech!          
-If we look for information groups in daily life and bullfrog groups for problems in class,       
-Then any area of interest can come to IE club!         
+If you look for information groups in daily life and bullfrog groups for problems in class,           
+Then any area of interest, IE Club is the place to be!    
 IE club has no professional restrictions, aims to promote learning and exchange in various fields of interest, and hopes to become a position for everyone to share and talk about academic research, industry-related issues and so on.        
 ## Basic functions of this group:
 ### 1. Encourage the sharing of knowledge and resources from various disciplines;
@@ -20,4 +20,6 @@ Let's start IE with chatting and sharing!
 ## Guide:
 QQ group for free communication!   
 GITHub website for uploading resources!    
-GitHub discussion field for uploading and sharing something valuable!   
+GitHub discussion field for uploading and sharing something valuable!       
+Anyone interested in contributing and commenting on IE club can contact the group founder via QQ!
+Thank you for reading！
